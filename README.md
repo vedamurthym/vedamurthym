@@ -27,3 +27,11 @@ More projects coming soon!
 
 - GitHub: https://github.com/vedamurthym
 - Linkedln:https://www.linkedin.com/in/vedamurthy-m-vedamurthy-m?utm_source=share_via&utm_content=profile&utm_medium=member_android
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=vedamurthym&show_icons=true&theme=tokyonight)
+
+## 💻 Most Used Languages
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedamurthym&layout=compact&theme=tokyonight)
