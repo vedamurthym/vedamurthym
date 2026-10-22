@@ -35,3 +35,21 @@ More projects coming soon!
 ## 💻 Most Used Languages
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=vedamurthym&layout=compact&theme=tokyonight)
+
+---
+
+🛠️ Languages & Tools
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi" />
+</p>🤖 AI & Machine Learning
+
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+</p>📚 Currently Learning
+
+- Python programming
+- Machine Learning fundamentals
+- AI Agents and RAG
+- Model Context Protocol (MCP)
+- AI automation using Make.com
