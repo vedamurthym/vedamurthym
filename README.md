@@ -52,4 +52,4 @@ More projects coming soon!
 - Machine Learning fundamentals
 - AI Agents and RAG
 - Model Context Protocol (MCP)
-- AI automation using Make.com
+- AI automation using Make.com and others 
