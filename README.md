@@ -36,13 +36,20 @@ Aspiring AI/ML Engineer 🇮🇳
 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,antigravity" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub, VS Code" />
+  <img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=64" width="48" height="48" alt="Antigravity" />
+  <strong>Antigravity</strong>
 </p>🤖 AI & Machine Learning
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" />
+  <img src="https://skillicons.dev/icons?i=tensorflow,pytorch" alt="TensorFlow and PyTorch" />
 </p>📚 Currently Learning
 
+- Python
+- Machine Learning
+- AI Agents
+- RAG and MCP
+- AI Automation
 - Python programming
 - Machine Learning fundamentals
 - AI Agents and RAG
