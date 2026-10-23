@@ -126,7 +126,7 @@ My first automation project: a workflow that emails a student their classes for 
 
 **Tech Stack:** Make.com · Google Sheets · Gmail
 
-🔗 **Repo:** [Add repo link](https://github.com/vedamurthym/YOUR-REPO-NAME)
+🔗 **Repo:** https://github.com/vedamurthym/ai-timetable-reminder-agent
 
 🎯 My Goals
 
