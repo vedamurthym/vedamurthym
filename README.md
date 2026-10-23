@@ -128,3 +128,19 @@ My first automation project: a workflow that emails a student their classes for 
 **Tech Stack:** Make.com · Google Sheets · Gmail
 
 🔗 **Repo:** [Add repo link](https://github.com/vedamurthym/YOUR-REPO-NAME)
+
+🎯 My Goals
+
+- 🚀 Become an AI/ML Engineer by building strong programming and machine learning fundamentals.
+- 🧠 Learn and implement Machine Learning, Deep Learning, Generative AI, and LLM-based applications.
+- 🛠️ Build practical AI projects that solve real-world problems.
+- ⚙️ Improve my skills in AI engineering, automation, model deployment, and system design.
+- 📈 Learn continuously, participate in hackathons, and grow through hands-on experience.
+
+🤝 Connect With Me
+
+- 💼 LinkedIn: "Connect with me" (YOUR_LINKEDIN_PROFILE_URL)
+- 💻 GitHub: "Explore my repositories" (https://github.com/vedamurthym)
+- 📧 Email: YOUR_EMAIL_ADDRESS
+
+I'm always interested in learning, collaborating on projects, and connecting with people passionate about AI and technology.
