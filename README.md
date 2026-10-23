@@ -36,7 +36,7 @@ Aspiring AI/ML Engineer 🇮🇳
 🛠️ Languages & Tools
 
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,fastapi" />
+  <img src="https://skillicons.dev/icons?i=python,git,github,vscode,antigravity" />
 </p>🤖 AI & Machine Learning
 
 <p align="left">
