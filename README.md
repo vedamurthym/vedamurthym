@@ -19,10 +19,6 @@ Aspiring AI/ML Engineer 🇮🇳
 - FastAPI
 - AI Automation
 
-🚀 My Projects
-
-More projects coming soon!
-
 🤝 Connect With Me
 
 - GitHub: https://github.com/vedamurthym
