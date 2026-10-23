@@ -6,7 +6,8 @@ Aspiring AI/ML Engineer 🇮🇳
 
 - 🌱 Currently learning Python, Machine Learning, and AI
 - 🤖 Exploring AI Agents, RAG, MCP, and AI Automation
-- 🛠️ Building real-world projects using AI tools
+- 🛠️ Building real-world projects using AI tools                                             <img width="1254" height="1254" alt="WhatsApp Image 2026-10-23 at 8 06 45 PM" src="https://github.com/user-attachments/assets/8ac4b3a0-e144-46d7-9a36-513984e57d01" />
+
 - 📚 Improving my programming and problem-solving skills
 - 🎯 My goal is to become an AI/ML Engineer
 
