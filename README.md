@@ -26,7 +26,6 @@ More projects coming soon!
 🤝 Connect With Me
 
 - GitHub: https://github.com/vedamurthym
-- Linkedln:https://www.linkedin.com/in/vedamurthy-m-vedamurthy-m?utm_source=share_via&utm_content=profile&utm_medium=member_android
 
 ## 📊 GitHub Stats
 
@@ -139,8 +138,8 @@ My first automation project: a workflow that emails a student their classes for 
 
 🤝 Connect With Me
 
-- 💼 LinkedIn: "Connect with me" (YOUR_LINKEDIN_PROFILE_URL)
+- 💼 LinkedIn: :https://www.linkedin.com/in/vedamurthy-m-vedamurthy-m?utm_source=share_via&utm_content=profile&utm_medium=member_android
 - 💻 GitHub: "Explore my repositories" (https://github.com/vedamurthym)
-- 📧 Email: YOUR_EMAIL_ADDRESS
+- 📧 Email: vedamurthy1123@gmail.com
 
 I'm always interested in learning, collaborating on projects, and connecting with people passionate about AI and technology.
