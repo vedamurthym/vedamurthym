@@ -38,7 +38,7 @@ Aspiring AI/ML Engineer 🇮🇳
 <p align="left">
   <img src="https://skillicons.dev/icons?i=python,git,github,vscode" alt="Python, Git, GitHub, VS Code" />
   <img src="https://www.google.com/s2/favicons?domain=antigravity.google&sz=64" width="48" height="48" alt="Antigravity" />
-  <strong>Antigravity</strong>
+  <strong></strong>
 </p>🤖 AI & Machine Learning
 
 <p align="left">
