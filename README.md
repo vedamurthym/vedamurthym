@@ -4,9 +4,8 @@ Aspiring AI/ML Engineer 🇮🇳
 
 🎓 BE CSE (Data Science) Student
 
-- 🌱 Currently learning Python, Machine Learning, and AI
-- 🤖 Exploring AI Agents, RAG, MCP, and AI Automation                    <img width="150" height="150" alt="WhatsApp Image 2026-10-23 at 8 06 45 PM" src="https://github.com/user-attachments/assets/8bc00f9c-6dc5-4219-a519-58b43b7106cf" />
-
+-🌱 Currently learning Python, Machine Learning, and AI
+- 🤖 Exploring AI Agents, RAG, MCP, and AI Automation       <img width="250" height="250" alt="WhatsApp Image 2026-10-23 at 8 06 45 PM"                                                                                        src="https://github.com/user-attachments/assets/8bc00f9c-6dc5-4219-a519-58b43b7106cf" /
 - 🛠️ Building real-world projects using AI tools                                          
 - 📚 Improving my programming and problem-solving skills
 - 🎯 My goal is to become an AI/ML Engineer
